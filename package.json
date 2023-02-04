@@ -1,0 +1,23 @@
+{
+  "name": "ama-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot that you can ask anything to. Made for chatbot deployment practice.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catrionafsmith/ama-chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catrionafsmith/ama-chatbot/issues"
+  },
+  "homepage": "https://github.com/catrionafsmith/ama-chatbot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
